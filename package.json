@@ -1,0 +1,19 @@
+{
+  "name": "ui5-middleware-pug",
+  "version": "1.0.0",
+  "description": "UI5 middleware transpile Pug -> UI5 View",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {},
+  "author": "Pascal Maximilian Bremer",
+  "license": "MIT",
+  "dependencies": {
+    "pug": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bomberus/ui5-middleware-pug"
+  }
+}

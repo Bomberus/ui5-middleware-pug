@@ -1,0 +1,8 @@
+# Pug -> XML Converter
+specVersion: "2.3"
+metadata:
+  name: ui5-middleware-pug
+kind: extension
+type: server-middleware
+middleware:
+  path: lib/ui5-middleware-pug.js
